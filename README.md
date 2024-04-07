@@ -13,7 +13,7 @@
   npm install
   node index.js
 ```
-3. Use the command to obfuscate:
+3. Use this command to obfuscate:
 ```bash
  /obfuscate
 ```
