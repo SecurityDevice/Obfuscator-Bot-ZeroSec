@@ -14,8 +14,9 @@
 ```
 3. Set your apikey in the ```index.js``` and change all necessary.
 4. Start the bot with
-   ```bash
-  node index.js```
+```bash
+  node index.js
+```
 
 6. Use this command to obfuscate:
 ```bash
