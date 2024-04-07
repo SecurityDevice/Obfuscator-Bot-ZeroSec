@@ -11,10 +11,12 @@
 2. Run these commands:
 ```bash
   npm install
-  node index.js
 ```
 3. Set your apikey in the ```index.js``` and change all necessary.
-4. Use this command to obfuscate:
+4. Start the bot with  ```bash
+  node index.js
+```
+5. Use this command to obfuscate:
 ```bash
  /obfuscate
 ```
