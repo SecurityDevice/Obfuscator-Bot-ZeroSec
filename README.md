@@ -13,7 +13,8 @@
   npm install
   node index.js
 ```
-3. Use this command to obfuscate:
+3. Set your apikey in the ```index.js``` and change all necessary.
+4. Use this command to obfuscate:
 ```bash
  /obfuscate
 ```
