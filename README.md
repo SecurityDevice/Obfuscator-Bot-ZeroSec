@@ -20,4 +20,4 @@
 ```
 
 If you need help with anything. Let me know asap.
-    
+Thanks to @dominikdomex for his help.
